@@ -1,0 +1,9 @@
+{
+  "stimulus_intensity": 0.3,
+  "firing_threshold": 0.5,
+  "neural_gain": 1.0,
+  "simulation_duration": 20.0,
+  "time_step": 0.01,
+  "noise_level": 0.05,
+  "inhibition_strength": 0.3
+}
